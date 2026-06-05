@@ -63,10 +63,10 @@
 ## 目录结构
 
 ```
-swan-cooking-skill-v2.2/
-├── SKILL.md          # 助手行为定义（对话流程、决策逻辑）
+.
 ├── README.md         # 本文件
-├── package.json
+├── SKILL.md          # 助手行为定义（对话流程、决策逻辑）
+├── VERSION.json      # 发布版本号
 ├── dist/             # 运行脚本（Node.js 18+）
 └── references/       # 接口参考文档（commands / params / errors）
 ```
